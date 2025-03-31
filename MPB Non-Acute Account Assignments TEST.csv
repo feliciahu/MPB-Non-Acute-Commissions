@@ -214,14 +214,12 @@ CUSTOMER_ID,CUSTOMER_NAME,ASSIGNMENT1,ASSIGNMENT1_EID,ASSIGNMENT2,ASSIGNMENT2_EI
 912195,FIRST CHOICE HM INFUSION,Christina Kyzer,,Brooke Maynard,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 151405,ASP CARES HOUSTON,Christin Danker,,Tom Duffy,,ASP CARES PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 42809,PARKWAY PHARMACY,Christin Danker,,Tom Duffy,,ISMC UNAFFILIATED,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-404851,DUNCAN SPECIALTY PHCY,Christin Danker,,Tom Duffy,,DUNCAN PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 45680,#N/A,Jessica Uldrick,,Tom Duffy,,HYVEE_AMBER,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 772741,MIZELLES DISC DRG MPB,Jessica Uldrick,,Brooke Maynard,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 6837,ARDON HEALTH LLC MPB,Kara Wheeler,,Joe Carrero,,ARDON HEALTHCARE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-763189,PDMNT INFU SVCS MPB,Jessica Uldrick,,Brooke Maynard,,PIEDMONT INFUSION,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 911045,SAVRX,Christin Danker,,Tom Duffy,,SAV-RX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 60393,PYRAMIDS  INFUSION CENTER,Christin Danker,,Tom Duffy,,PYRAMIDS SPECIALTY INFUSION CENTER,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-712777,CSI PHARMACY,Christin Danker,,Tom Duffy,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
+712777,CSI PHARMACY,Jessica Uldrick,,Tom Duffy,,NONE,7/17/2024 13:06,12/12/2024 14:55,wesley.moody@mckesson.com
 782772,NORTH TEXAS INF SPLTY PRO,Christin Danker,,Tom Duffy,,NORTH TX INFUSION SP,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 322591,HEALTH CARE MEDICAL,Christin Danker,,Tom Duffy,,PREMIER ALTERNATE SITE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 822416,GREAT PLAINS PHARMACY,Christin Danker,,Tom Duffy,,IPC,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
@@ -241,9 +239,7 @@ CUSTOMER_ID,CUSTOMER_NAME,ASSIGNMENT1,ASSIGNMENT1_EID,ASSIGNMENT2,ASSIGNMENT2_EI
 838119,GREAT NECK CHEMISTS LTC,Jerry Taylor,,Scott Reed,,PREMIER ALTERNATE SITE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 41476,CALIGOR PHARMACY,Jerry Taylor,,Scott Reed,,IPC,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 252455,ECHO DRUGS AND PHARMACY,Jerry Taylor,,Scott Reed,,EMPIRE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-45695,HY-VEE PHCY OMAHA MPB,Jessica Uldrick,,Tom Duffy,,HYVEE_AMBER,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 771807,SANDSRX MPB,Christin Danker,,Tom Duffy,,SANDSRX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-253305,POLARIS SPEC SRVCS CA,Christina Kyzer,,Joe Carrero,,POLARIS,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 822383,ALERACARE PHARMACY CA,Kara Wheeler,,Tom Duffy,,MEDICO RX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 616302,POUDRE INF THERA INNOV,Kara Wheeler,,Tom Duffy,,POUDRE INF,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 159398,MEDRX INF CLNL PHCY,Christin Danker,,Tom Duffy,,MEDRX ICP,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
@@ -275,7 +271,6 @@ CUSTOMER_ID,CUSTOMER_NAME,ASSIGNMENT1,ASSIGNMENT1_EID,ASSIGNMENT2,ASSIGNMENT2_EI
 436035,RSC TROY BULK,Jessica Uldrick,,Brooke Maynard,,REMEDI,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 713914,RSC NE BULK,Jessica Uldrick,,Brooke Maynard,,REMEDI,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 661855,RSC YBR PAXIT,Jessica Uldrick,,Brooke Maynard,,REMEDI,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-714075,RSC NE INFUSION,Jessica Uldrick,,Brooke Maynard,,REMEDI,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 624949,RSC CHARLOTTE ORAL,Jessica Uldrick,,Brooke Maynard,,REMEDI,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 382166,RSC OKC BULK,Jessica Uldrick,,Brooke Maynard,,REMEDI,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 908143,RSC VA BULK,Jessica Uldrick,,Brooke Maynard,,REMEDI,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
@@ -291,11 +286,9 @@ CUSTOMER_ID,CUSTOMER_NAME,ASSIGNMENT1,ASSIGNMENT1_EID,ASSIGNMENT2,ASSIGNMENT2_EI
 510308,KEYSTONE MED LLC,Jerry Taylor,,Brooke Maynard,,PREMIER ALTERNATE SITE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 746310,PHARMCO,Christina Kyzer,,Brooke Maynard,,ISMC UNAFFILIATED,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 737740,MEMPHIS DRUGS GMED,Jessica Uldrick,,Scott Reed,,GERIMED,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-846791,#N/A,Jessica Uldrick,,Scott Reed,,WILLIAMS BROTHERS HEALTH CARE PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 191633,GIANNOTTO'S PHARMACY,Jerry Taylor,,Brooke Maynard,,CARE RX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 772651,ARTH/RHEUM ASSOC MPB,Jessica Uldrick,,Brooke Maynard,,ARTHRITIS AND RHEUMATISM,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 136141,INFUSION HEALTH PLC MPB,Jessica Uldrick,,Scott Reed,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-437443,MEIJER PHCY 221 CORP,Jessica Uldrick,,Joe Carrero,,MEIJER PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 45651,AMBER PHCY OMAHA MPB,Jessica Uldrick,,Tom Duffy,,HYVEE_AMBER,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 761208,"PROF HME IV, INC MPB",Kara Wheeler,,Joe Carrero,,PROFESSIONAL HOME IV,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 774542,"NATIONS HOME INFUSION,LLC",Jessica Uldrick,,Brooke Maynard,,NATIONS HOME INFUSION,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
@@ -309,7 +302,7 @@ CUSTOMER_ID,CUSTOMER_NAME,ASSIGNMENT1,ASSIGNMENT1_EID,ASSIGNMENT2,ASSIGNMENT2_EI
 943302,PHARMACON,Christina Kyzer,,Brooke Maynard,,PREMIER ALTERNATE SITE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 705378,PRESCRIPT UNLIMITED INNOV,Christina Kyzer,,Brooke Maynard,,PREMIER ALTERNATE SITE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 233098,LSA PHRMCY MPB,Jessica Uldrick,,Brooke Maynard,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-771513,CSI PHARMACY MPB,Christin Danker,,Scott Reed,,CSI PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
+771513,CSI PHARMACY MPB,Jessica Uldrick,,Scott Reed,,CSI PHARMACY,7/17/2024 13:06,12/12/2024 14:55,wesley.moody@mckesson.com
 878347,MEDWIZ OF KENTUCKY,Christina Kyzer,,Brooke Maynard,,MEDWIZ PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 688495,CSC COMM PHY PHS,Christina Kyzer,,Brooke Maynard,,CARE SOUTH CAROLINA,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 965815,ONCOMED ONCO PHRMCY MPB,Christina Kyzer,,Tom Duffy,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
@@ -317,14 +310,12 @@ CUSTOMER_ID,CUSTOMER_NAME,ASSIGNMENT1,ASSIGNMENT1_EID,ASSIGNMENT2,ASSIGNMENT2_EI
 128109,FLOMED INFUSION SRV MPB,Christina Kyzer,,Brooke Maynard,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 739091,EPPY'S IV INC,Jessica Uldrick,,Brooke Maynard,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 297401,PROFSNL PHCY GENESIS PHS,Christina Kyzer,,Brooke Maynard,,GENESIS HEALTHCARE INC SC,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-998400,Williams Brothers Specialty,Jessica Uldrick,,Scott Reed,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 222696,LIFELINE24 PHARMACY,Jessica Uldrick,,Brooke Maynard,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 195024,PICC LINES PLUS,Christina Kyzer,,Brooke Maynard,,PICC LINES PLUS,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 880185,LIFESPAN SPEC PHY GPO MPB,Jerry Taylor,,Scott Reed,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 915812,MEDICAL HEALTH PHCY MHA,Jessica Uldrick,,Scott Reed,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 348252,O'CONNELL PHCY LONG TERM,Jessica Uldrick,,Scott Reed,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 334689,GD PHARMACY SERVICES,Jessica Uldrick,,Scott Reed,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-724159,DRG HUENEME PHCY MPB,Jessica Uldrick,,Joe Carrero,,DRUG HUENEME PHARMACY,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 748146,PUBLIX SUPER MARKETS MPB,Christina Kyzer,,Tom Duffy,,PUBLIX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 763902,OSO HOME CARE MPB,Jessica Uldrick,,Tom Duffy,,OSO HOME CARE,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 759963,IV SLTN/MXR SPEC MPB,Christin Danker,,Tom Duffy,,IV SOLUTIONS/MAXOR,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
@@ -338,7 +329,6 @@ CUSTOMER_ID,CUSTOMER_NAME,ASSIGNMENT1,ASSIGNMENT1_EID,ASSIGNMENT2,ASSIGNMENT2_EI
 764465,INFU SLTNS MPB,Jerry Taylor,,Joe Carrero,,INFUSION SOLUTIONS,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 759275,HTHWSE PHY GRNVLE MPB,Jessica Uldrick,,Tom Duffy,,VITAL CARE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 438249,ANOVORX GROUP MPB,Christina Kyzer,,Brooke Maynard,,ANOVORX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-344719,MEIJER PHCY 459CORP,Jessica Uldrick,,Joe Carrero,,MEIJER PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 744926,SOUTH MIAMI PHCY MPB,Christina Kyzer,,Brooke Maynard,,SOUTH MIAMI PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 696589,EVOL PHCY SOL MPB,Jessica Uldrick,,Tom Duffy,,EVOLUTIONARY PHARMACY,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 23435,GLOBAL REACH RX USA MPB,Christina Kyzer,,Brooke Maynard,,INNOVATIX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
@@ -350,9 +340,7 @@ CUSTOMER_ID,CUSTOMER_NAME,ASSIGNMENT1,ASSIGNMENT1_EID,ASSIGNMENT2,ASSIGNMENT2_EI
 783404,HEALTHY CITY PHCY GPO MPB,Christin Danker,,Tom Duffy,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 772626,ASP SONA PHY GPO MPB,Jessica Uldrick,,Brooke Maynard,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 744418,BIOLOGICTX LA CA GPO MPB,Kara Wheeler,,Joe Carrero,,MATRIX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-760007,AMER SVC & PROD MPB,Jessica Uldrick,,Scott Reed,,AMERICAN SERVICE AND PRODUCT,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 793007,METRO DRUGS INC GPO MPB,Jerry Taylor,,Scott Reed,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-761737,AMERITA FAC7177 MPB,Jessica Uldrick,,Tom Duffy,,AMERITA,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 759677,RIVERS EDGE PHCY MPB,Jerry Taylor,,Tom Duffy,,RIVER'S EDGE PHARMACY,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 78041,PERFECTION RX SP LLC MPB,Christina Kyzer,,Brooke Maynard,,INNOVATIX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 763123,VLY VITAL CARE MPB,Jessica Uldrick,,Tom Duffy,,VITAL CARE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
@@ -363,7 +351,6 @@ CUSTOMER_ID,CUSTOMER_NAME,ASSIGNMENT1,ASSIGNMENT1_EID,ASSIGNMENT2,ASSIGNMENT2_EI
 929585,IV CARE OPTIONS MPB,Christina Kyzer,,Brooke Maynard,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 43627,MULA FAMILY PHCY GPO MPB,Christin Danker,,Brooke Maynard,,MULA FAMILY PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 761317,MAXOR SPEC PHCY MPB,Christin Danker,,Tom Duffy,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-52996,ORSINI PHARM MPB,Jessica Uldrick,,Scott Reed,,ORSINI,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 759304,RELIANT HEALTHCRE MPB,Christin Danker,,Tom Duffy,,RELIANT HEALTHCARE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 772813,INTRAVENE GPO MPB,Jessica Uldrick,,Brooke Maynard,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 761541,ADV INFUSIONCARE MPB,Christin Danker,,Tom Duffy,,ADVANCED INFUSION CARE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
@@ -374,38 +361,29 @@ CUSTOMER_ID,CUSTOMER_NAME,ASSIGNMENT1,ASSIGNMENT1_EID,ASSIGNMENT2,ASSIGNMENT2_EI
 760037,KINGS PARK SLOPE MPB,Jerry Taylor,,Scott Reed,,KINGS RX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 731726,"ORLRX, LLC MPB",Christin Danker,,Tom Duffy,,BIOCURE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 763471,"U & I INC, USA MPB",Jerry Taylor,,Scott Reed,,U & I,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-912111,HOMECARE RX INC MPB,Jessica Uldrick,,Brooke Maynard,,INFUCARE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-13015,BDRN PHCY MPB,Jerry Taylor,,Scott Reed,,BDRN PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-696444,DRG HUENEME PHCY MPB,Jessica Uldrick,,Joe Carrero,,DRUG HUENEME PHARMACY,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 759257,GUID ALNCE HC SRV MPB,Jerry Taylor,,Joe Carrero,,NONE,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 982608,PROFUSION SP PHCY MPB,Christin Danker,,Tom Duffy,,PROFUSION SP,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 761854,RESTORE RX INC. MPB,Christina Kyzer,,Brooke Maynard,,RESTORE RX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 2912,NEW ENGLAND LIFE WOBU MPB,Jerry Taylor,,Scott Reed,,NEW ENGLAND LIFECARE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 67441,CONTRX CNTRL AL MPB,Christina Kyzer,,Brooke Maynard,,CONTINUUM RX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 761276,PERFORMSPECIALTY MPB,Christina Kyzer,,Brooke Maynard,,PERFORM SPECIALTY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-763586,AMER SVC & PROD MPB,Jessica Uldrick,,Scott Reed,,AMERICAN SERVICE AND PRODUCT,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 763715,INNOV INFU SPC MPB,Christin Danker,,Tom Duffy,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-150118,CSI PHARMACY OH MPB,Christin Danker,,Scott Reed,,CSI PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-120989,MPB CSI PHARMACY CT MPB,Christin Danker,,Scott Reed,,CSI PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
+150118,CSI PHARMACY OH MPB,Jessica Uldrick,,Scott Reed,,CSI PHARMACY,7/17/2024 13:06,12/12/2024 14:55,wesley.moody@mckesson.com
+120989,MPB CSI PHARMACY CT MPB,Jessica Uldrick,,Scott Reed,,CSI PHARMACY,7/17/2024 13:06,12/12/2024 14:55,wesley.moody@mckesson.com
 783308,DRG HUENEME PHCY MPB,Jessica Uldrick,,Joe Carrero,,DRUG HUENEME PHARMACY,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 747129,CIENEGA PHARMACY MPB,Jerry Taylor,,Joe Carrero,,CIENEGA PHARMACY,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 691406,CONTRX N VA MPB,Christina Kyzer,,Brooke Maynard,,CONTINUUM RX,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 951850,CARE FUSION RX MPB,Christin Danker,,Joe Carrero,,CARE FUSION RX,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 958380,MEDILINK RXCARE HAMON MPB,Jerry Taylor,,Brooke Maynard,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-13014,BDRN PHCY MPB,Jerry Taylor,,Scott Reed,,BDRN PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-758865,HMOPHILIA PRF CRE MPB,Christina Kyzer,,Brooke Maynard,,HEMOPHILIA PREFERED CARE (HPC),7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 774318,RIVERS EDGE SPEC MPB,Jerry Taylor,,Tom Duffy,,RIVER'S EDGE PHARMACY,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
-771517,CSI PHARMACY MPB,Christin Danker,,Scott Reed,,CSI PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
+771517,CSI PHARMACY MPB,Jessica Uldrick,,Scott Reed,,CSI PHARMACY,7/17/2024 13:06,12/12/2024 14:55,wesley.moody@mckesson.com
 758432,REALO SPC CR PHY MPB,Jessica Uldrick,,Brooke Maynard,,REALO SP,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 53690,AMERICAN OUTCOMES CRP MPB,Christin Danker,,Tom Duffy,,AMERICAN OUTCOMES MANAGEMENT,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 917117,PREM INF & HLTH SRVCS MPB,Jerry Taylor,,Joe Carrero,,PREMIER INFUSION CARE,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
 759767,DRUGCO HLTH-SPEC MPB,Jessica Uldrick,,Brooke Maynard,,DRUGCO,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 49186,AMER OUTCOMES MNGT NY MPB,Christin Danker,,Tom Duffy,,AMERICAN OUTCOMES MANAGEMENT,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-406046,CALIFORNIA SPEC PHCY MPB,Christina Kyzer,,Tom Duffy,,CALIFORNIA SPECIALTY,7/17/2024 13:06,7/29/2024 16:41,wesley.moody@mckesson.com
-345035,MEIJER PHCY 458CORP,Jessica Uldrick,,Joe Carrero,,MEIJER PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-732477,CSI PHARMACY MPB,Christin Danker,,Scott Reed,,CSI PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-35388,MEIJER PHCY 460PRX,Jessica Uldrick,,Joe Carrero,,MEIJER PHARMACY,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
+732477,CSI PHARMACY MPB,Jessica Uldrick,,Scott Reed,,CSI PHARMACY,7/17/2024 13:06,12/12/2024 14:55,wesley.moody@mckesson.com
 786078,WAL-MART 5315 CP,Christina Kyzer,,Brooke Maynard,,WALMART INC,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 273236,"BIRDI, INC SPEC NEW",Jessica Uldrick,,Brooke Maynard,,NONE,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
 273225,"BIRDI, INC OH MAIL",Jessica Uldrick,,Brooke Maynard,,Birdi,7/17/2024 13:06,7/18/2024 10:12,wesley.moody@mckesson.com
-764030,DRU HLTH SPEC MPB,Jessica Uldrick,,Brooke Maynard,,DRUGCO,8/27/2024 8:54,8/27/2024 8:54,wesley.moody@mckesson.com
+764030,DRU HLTH SPEC MPB,Jessica Uldrick,,Brooke Maynard,,DRUGCO,8/28/2024 11:19,8/28/2024 11:19,wesley.moody@mckesson.com
